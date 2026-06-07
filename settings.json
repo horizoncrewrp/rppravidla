@@ -1,22 +1,16 @@
 {
-    "highlight.regexes": {
-        "(?:\\*\\*\\*\\s*✓\\s*Správně:.*\\*\\*\\*)": {
-            "filterLanguageRegex": "markdown",
-            "decorations": [
-                {
-                    "color": "#4CAF50",
-                    "fontWeight": "bold"
-                }
-            ]
+    "todo-tree.general.tags": [
+        "✓ Správně:",
+        "✘ Špatně:"
+    ],
+    "todo-tree.highlights.customHighlight": {
+        "✓ Správně:": {
+            "foreground": "#4CAF50",
+            "type": "line"
         },
-        "(?:\\*\\*\\*\\s*✘\\s*Špatně:.*\\*\\*\\*)": {
-            "filterLanguageRegex": "markdown",
-            "decorations": [
-                {
-                    "color": "#F44336",
-                    "fontWeight": "bold"
-                }
-            ]
+        "✘ Špatně:": {
+            "foreground": "#F44336",
+            "type": "line"
         }
     }
 }

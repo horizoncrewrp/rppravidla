@@ -22,7 +22,7 @@
 
 *Příklad:*
 
-<span style="color: #4CAF50;">✔ Správně:</span>
+***✔ Správně:***
 
 ***/me Pokouší se vykopnout staré dřevěné dveře od kůlny. (Systém vyhodnotí úspěch/neúspěch)***
 
