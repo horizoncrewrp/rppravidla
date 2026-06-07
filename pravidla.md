@@ -22,13 +22,13 @@
 
 *Příklad:*
 
-***✔ Správně:***
+***<span style="color:green">✔ Správně:</span>✔ Správně:***
 
 ***/me Pokouší se vykopnout staré dřevěné dveře od kůlny. (Systém vyhodnotí úspěch/neúspěch)***
 
 ***/me Snaží se nahmatat klíče v hluboké kapse u kalhot. (Systém určí, zda postava klíče našla)***
 
-*/DO**
+***/DO***
 
 *Příkaz slouží k detailnímu popisu prostředí a situací, nebo k vyjádření akcí, které vyžadují následnou reakci či odpověď od jiného hráče.*
 
