@@ -22,13 +22,6 @@
 
 *Příklad:*
 
-***<span style="color: #4CAF50;">✓ Správně:</span>***
-
-***/me Pokouší se vykopnout staré dřevěné dveře...***
-
-***<span style="color: #F44336;">✗ Chyba:</span>***
-
-***/me Snaží se...***
 ***✔ Správně:***
 
 ***/me Pokouší se vykopnout staré dřevěné dveře od kůlny. (Systém vyhodnotí úspěch/neúspěch)***

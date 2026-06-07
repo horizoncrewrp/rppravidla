@@ -1,0 +1,22 @@
+{
+    "highlight.regexes": {
+        "(?:\\*\\*\\*\\s*✓\\s*Správně:.*\\*\\*\\*)": {
+            "filterLanguageRegex": "markdown",
+            "decorations": [
+                {
+                    "color": "#4CAF50",
+                    "fontWeight": "bold"
+                }
+            ]
+        },
+        "(?:\\*\\*\\*\\s*✘\\s*Špatně:.*\\*\\*\\*)": {
+            "filterLanguageRegex": "markdown",
+            "decorations": [
+                {
+                    "color": "#F44336",
+                    "fontWeight": "bold"
+                }
+            ]
+        }
+    }
+}
