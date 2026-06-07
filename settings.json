@@ -3,13 +3,20 @@
         "SPRAVNE:",
         "SPATNE:"
     ],
+    "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^)\\s*($TAGS)",
+    "todo-tree.general.textModeFiletypes": [
+        "markdown",
+        "plaintext"
+    ],
     "todo-tree.highlights.customHighlight": {
         "SPRAVNE:": {
-            "foreground": "#4CAF50",
+            "foreground": "#ffffff",
+            "background": "#2e7d32",
             "type": "line"
         },
         "SPATNE:": {
-            "foreground": "#F44336",
+            "foreground": "#ffffff",
+            "background": "#c62828",
             "type": "line"
         }
     }
