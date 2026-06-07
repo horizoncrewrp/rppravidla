@@ -24,9 +24,9 @@
 
 `***✔ Správně:***`
 
-***/me Pokouší se vykopnout staré dřevěné dveře od kůlny. (Systém vyhodnotí úspěch/neúspěch)***
+✔ Správně: ***/me Pokouší se vykopnout staré dřevěné dveře od kůlny. (Systém vyhodnotí úspěch/neúspěch)***
 
-***/me Snaží se nahmatat klíče v hluboké kapse u kalhot. (Systém určí, zda postava klíče našla)***
+✔ Správně: ***/me Snaží se nahmatat klíče v hluboké kapse u kalhot. (Systém určí, zda postava klíče našla)***
 
 ***/DO***
 
@@ -80,7 +80,7 @@
 
 ***✘ Špatně:***
 
-*/do bere auto oběma rukama a hází ho přes plot na zahradu.*
+✘ Špatně: */do bere auto oběma rukama a hází ho přes plot na zahradu.*
 
 *Manuální tlačení nepojízdného vozidla (např. přes Target menu / "očko") je povoleno pouze tehdy, pokud za volantem vozu sedí jiný hráč, který vozidlo ovládá a koriguje směr, a zároveň celá situace dává logický RP smysl (např. odtlačení překážky z křižovatky, nikoli tlačení vozu přes celé město).*
 
