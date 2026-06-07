@@ -22,7 +22,7 @@
 
 *Příklad:*
 
-***✔ Správně:***
+<span style="color: #4CAF50;">✔ Správně:</span>
 
 ***/me Pokouší se vykopnout staré dřevěné dveře od kůlny. (Systém vyhodnotí úspěch/neúspěch)***
 
@@ -217,7 +217,7 @@ Maximální doba únosu je 2 hodiny. Prodloužení z logických RP důvodů je m
 
 *Passive RP v exteriéru*
 
-*Doky, továrny či státní areály mají hlídače a kamery. Nelze je zneužívat k únosům či vraždám „beze svědků“.
+*Doky, továrny či státní areály mají hlídače a kamery. Nelze je zneužívat k únosům či vraždám „beze svědků“.*
 
 *Bez vážného důvodu nesmíte na ulici nikoho ohrožovat zbraní – hrozí okamžité nahlášení fiktivními svědky.*
 
