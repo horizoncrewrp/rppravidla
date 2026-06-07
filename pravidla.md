@@ -261,15 +261,15 @@ Oblasti se zvýšenou kriminalitou, kde mohou být obyvatelé ozbrojeni. Složky
 
 *Postava musí logicky zapadat do amerického prostředí. Jsou zakázány typicky české či slovenské charaktery a stereotypní parodie (např. karikatury šišlajících Asiatů). Slovenština se nesmí používat jako herní přízvuk.*
 
-*Je zakázáno hrát členy teroristických buněk nebo organizací zaměřených na plošné násilí.
+*Je zakázáno hrát členy teroristických buněk nebo organizací zaměřených na plošné násilí.*
 
-*Co musíte předem schválit přes ticket?
+*Co musíte předem schválit přes ticket?*
 
-*Následující typy charakterů nesmíte hrát bez výslovného povolení od AT:
+*Následující typy charakterů nesmíte hrát bez výslovného povolení od AT:*
 
-*Lidi s těžkými psychickými poruchami nebo labilním chováním.
+*Lidi s těžkými psychickými poruchami nebo labilním chováním.*
 
-*Transgender charaktery a roleplay opačného pohlaví (např. pokud muž chce hrát ženskou postavu).
+*Transgender charaktery a roleplay opačného pohlaví (např. pokud muž chce hrát ženskou postavu).*
 
 ***CK - DEFINITIVNÍ SMRT POSTAVY***
 
