@@ -32,8 +32,6 @@ Příklad:
 
 Příkaz slouží k detailnímu popisu prostředí a situací, nebo k vyjádření akcí, které vyžadují následnou reakci či odpověď od jiného hráče.
 
-
-
 Příklad:
 
 ✔ Správně:
@@ -206,8 +204,6 @@ Pravidlo definuje chování v herním světě s ohledem na fiktivní obyvatelstv
 
 Veřejná prostranství jsou podle lore serveru plná lidí. Město žije, i když v okolí zrovna nikdo není – kdokoli vás může vidět. Passive RP musíte dodržovat vždy, i o samotě.
 
-
-
 Passive RP v interiéru
 
 Všechny interiéry (otevřené i na port) jsou na serveru uzamčené.
@@ -352,12 +348,12 @@ Auto policie, EMS nebo hasičů můžete ukrást jako nouzové řešení (např.
 
 Je zakázáno si tato auta nechávat, schovávat je nebo s nimi dlouhodobě jezdit. Výjimku tvoří pouze komplexní RP plány předem schválené přes ticket u AT.
 
-Upozornění: Všechna státní vozidla mají aktivní palubní kamery, s čímž musíte v RP počítat.
+*Upozornění: Všechna státní vozidla mají aktivní palubní kamery, s čímž musíte v RP počítat.*
 
-Cely předběžného zadržení (CPZ) a nelegální doktoři
+*Cely předběžného zadržení (CPZ) a nelegální doktoři*
 
-Maximální doba držení v cele předběžného zadržení je 2 hodiny. Policie je povinna využívat zákony efektivně tak, aby vás tam nedržela ani o minutu déle, než je nutné pro sepsání protokolu.
+*Maximální doba držení v cele předběžného zadržení je 2 hodiny. Policie je povinna využívat zákony efektivně tak, aby vás tam nedržela ani o minutu déle, než je nutné pro sepsání protokolu.*
 
- Chcete-li RPit nelegálního chirurga, který ošetřuje postřelené gangstry bez hlášení policii, potřebujete schválení od AT. V ticketu musíte navíc obhájit, jak vaše postava sehnala drahé lékařské vybavení a kde má utajenou ordinaci.
+ *Chcete-li RPit nelegálního chirurga, který ošetřuje postřelené gangstry bez hlášení policii, potřebujete schválení od AT. V ticketu musíte navíc obhájit, jak vaše postava sehnala drahé lékařské vybavení a kde má utajenou ordinaci.*
 
-**Důležitá poznámka:** Pro všechny hráče platí povinnost sledovat a dodržovat interní OOC sekce na oficiálních Discordech jednotlivých státních frakcí, kde jsou specifická pravidla dále rozvedena.*
+***Důležitá poznámka:** Pro všechny hráče platí povinnost sledovat a dodržovat interní OOC sekce na oficiálních Discordech jednotlivých státních frakcí, kde jsou specifická pravidla dále rozvedena.*
