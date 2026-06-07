@@ -1,352 +1,349 @@
 ## Základní Pravidla
 
-***RP - RolePlay**
+***RP - RolePlay***
 
-Roleplay reprezentuje simulaci fiktivního lidského života, v němž hráč ztvárňuje specifický charakter s vlastním zázemím a historií. Tento příběh a osobnostní rysy postavy se následně aktivně vyvíjejí a projevují skrze veškeré interakce a rozhodnutí v rámci otevřeného herního světa.
+*Roleplay reprezentuje simulaci fiktivního lidského života, v němž hráč ztvárňuje specifický charakter s vlastním zázemím a historií. Tento příběh a osobnostní rysy postavy se následně aktivně vyvíjejí a projevují skrze veškeré interakce a rozhodnutí v rámci otevřeného herního světa.*
 
-**IC - In Character**
+***IC - In Character***
 
-Tento termín definuje stav aktivního ztvárňování role v herním prostředí. Jedná se o situace, kdy veškeré jednání, mluvený projev a interakce hráče probíhají výhradně v rámci identity jeho fiktivní postavy.
+*Tento termín definuje stav aktivního ztvárňování role v herním prostředí. Jedná se o situace, kdy veškeré jednání, mluvený projev a interakce hráče probíhají výhradně v rámci identity jeho fiktivní postavy.*
 
-V tomto režimu se hráč plně adaptuje na charakterové vlastnosti své role a na okolní podněty či ostatní účastníky reaguje způsobem, který je v souladu s náturou a historií jeho postavy.
+*V tomto režimu se hráč plně adaptuje na charakterové vlastnosti své role a na okolní podněty či ostatní účastníky reaguje způsobem, který je v souladu s náturou a historií jeho postavy.*
 
-**OOC - OUT OF CHARACTER**
+***OOC - OUT OF CHARACTER***
 
-Tento termín označuje proces vystoupení z herní role. Jedná se o moment, kdy hráč jedná, komunikuje nebo popisuje situace sám za sebe jako osobu, nikoliv za svou fiktivní postavu.
+*Tento termín označuje proces vystoupení z herní role. Jedná se o moment, kdy hráč jedná, komunikuje nebo popisuje situace sám za sebe jako osobu, nikoliv za svou fiktivní postavu.*
 
-Jakákoliv aktivita v tomto režimu narušuje kontinuitu herního světa a je přípustná pouze v jasně vymezených technických či organizačních případech.
+*Jakákoliv aktivita v tomto režimu narušuje kontinuitu herního světa a je přípustná pouze v jasně vymezených technických či organizačních případech.*
 
-**/ME**
+***/ME***
 
-Příkaz určený k textovému popisu činností, emocí a nálad postavy, které nelze vyjádřit standardními herními animacemi.
+*Příkaz určený k textovému popisu činností, emocí a nálad postavy, které nelze vyjádřit standardními herními animacemi.*
 
-Příklad:
+*Příklad:*
 
-✔ Správně:
+***✔ Správně:***
 
-/me Pokouší se vykopnout staré dřevěné dveře od kůlny. (Systém vyhodnotí úspěch/neúspěch)
+***/me Pokouší se vykopnout staré dřevěné dveře od kůlny. (Systém vyhodnotí úspěch/neúspěch)***
 
-/me Snaží se nahmatat klíče v hluboké kapse u kalhot. (Systém určí, zda postava klíče našla)
+***/me Snaží se nahmatat klíče v hluboké kapse u kalhot. (Systém určí, zda postava klíče našla)***
 
-/DO
+*/DO**
 
-Příkaz slouží k detailnímu popisu prostředí a situací, nebo k vyjádření akcí, které vyžadují následnou reakci či odpověď od jiného hráče.
+*Příkaz slouží k detailnímu popisu prostředí a situací, nebo k vyjádření akcí, které vyžadují následnou reakci či odpověď od jiného hráče.*
 
-Příklad:
+*Příklad:*
 
-✔ Správně:
+***✔ Správně:***
 
-/do Na stole leží stará zamčená truhla. Lze jí zvednout. (Popis prostředí na jiného hráče)
+*/do Na stole leží stará zamčená truhla. Lze jí zvednout. (Popis prostředí na jiného hráče)*
 
-/do V peněžence má pouze občanský průkaz a 5000 $, zbytek dokladů chybí (Širší popis situace/předmětu při prohledávání)
+*/do V peněžence má pouze občanský průkaz a 5000 $, zbytek dokladů chybí (Širší popis situace/předmětu při prohledávání)*
 
-**MIXING**
+***MIXING***
 
-Tento bod upravuje přísný zákaz prolínání informací mezi herním světem (IC) a mimoherní realitou (OOC).​
+*Tento bod upravuje přísný zákaz prolínání informací mezi herním světem (IC) a mimoherní realitou (OOC).​*
 
-Hráč smí v rámci IC situací využívat výhradně ty informace, které jeho postava prokazatelně získala přímo herní cestou.
+*Hráč smí v rámci IC situací využívat výhradně ty informace, které jeho postava prokazatelně získala přímo herní cestou.*
 
-Je zakázáno jakýmkoli způsobem zneužívat znalosti získané mimo hru (např. znalost herních mechanik, jména postav zobrazená nad hlavou, Discord role, streamy ostatních hráčů a další).
+*Je zakázáno jakýmkoli způsobem zneužívat znalosti získané mimo hru (např. znalost herních mechanik, jména postav zobrazená nad hlavou, Discord role, streamy ostatních hráčů a další).*
 
-Používání nadávek, oslovení nebo frází, které neodpovídají loru postavy, charakteru frakce nebo hernímu zasazení, je klasifikováno jako mixing.​
+*Používání nadávek, oslovení nebo frází, které neodpovídají loru postavy, charakteru frakce nebo hernímu zasazení, je klasifikováno jako mixing.​*
 
-Cílené vyhledávání nebo naopak záměrné ignorování herních postav a skupin na základě osobních (OOC) sympatií, antipatií či kamarádství mimo server je považováno za závažnou formu mixingu
+*Cílené vyhledávání nebo naopak záměrné ignorování herních postav a skupin na základě osobních (OOC) sympatií, antipatií či kamarádství mimo server je považováno za závažnou formu mixingu*
 
-✔ Správně:
+***✔ Správně:***
 
-Hráč během zatýkání policií začne do herního hlasového chatu křičet: „Hele, ty mi nemůžeš dát vězení na hodinu, protože v pravidlech na Discordu je napsané maximum 30 minut a tvůj šéf frakce mi to schválil!“ (Zatažení OOC pravidel a Discordu do IC rozhovoru)
+*Hráč během zatýkání policií začne do herního hlasového chatu křičet: „Hele, ty mi nemůžeš dát vězení na hodinu, protože v pravidlech na Discordu je napsané maximum 30 minut a tvůj šéf frakce mi to schválil!“ (Zatažení OOC pravidel a Discordu do IC rozhovoru)*
 
-**METAGAMING​**
+***METAGAMING​***
 
-Tento bod definuje zneužití informací, které hráč získal mimo herní postavu, za účelem dosažení výhody nebo ovlivnění děje v herním světě.​
+*Tento bod definuje zneužití informací, které hráč získal mimo herní postavu, za účelem dosažení výhody nebo ovlivnění děje v herním světě.​*
 
-**POZNÁVÁNÍ HRÁČŮ**​
+***POZNÁVÁNÍ HRÁČŮ**​*
 
-Pravidlo omezuje identifikaci postav podle hlasu, oblečení či vzhledu na základě povrchních znaků.​
+*Pravidlo omezuje identifikaci postav podle hlasu, oblečení či vzhledu na základě povrchních znaků.​*
 
-Poznat jinou postavu můžete pouze v případě, že s ní máte blízký nebo dlouhodobý IC vztah (rodina, partner, dlouholetý kolega, společná minulost).
+*Poznat jinou postavu můžete pouze v případě, že s ní máte blízký nebo dlouhodobý IC vztah (rodina, partner, dlouholetý kolega, společná minulost).*
 
-Ověření přes /do: Pokud chcete RPit, že je vám někdo povědomý, musíte si to ověřit dotazem do /do (např. /do Je mi postava povědomá?). Druhá strana má právo odpovědět i neurčitě.​
+*Ověření přes /do: Pokud chcete RPit, že je vám někdo povědomý, musíte si to ověřit dotazem do /do (např. /do Je mi postava povědomá?). Druhá strana má právo odpovědět i neurčitě.​*
 
-Je zakázáno poznávat maskované nebo neuniformované příslušníky státních složek bez jejich výslovného potvrzení přes /do (výjimkou jsou blízcí kolegové/rodina).
+*Je zakázáno poznávat maskované nebo neuniformované příslušníky státních složek bez jejich výslovného potvrzení přes /do (výjimkou jsou blízcí kolegové/rodina).*
 
-Identifikace postav na ulici na základě fotek a příspěvků z herních sociálních sítí bez předchozí osobní interakce je zakázána.​
+*Identifikace postav na ulici na základě fotek a příspěvků z herních sociálních sítí bez předchozí osobní interakce je zakázána.​*
 
-**POWERGAMING**​
+***POWERGAMING**​*
 
-Tento bod definuje situace, kdy jednání, činy nebo schopnosti vaší postavy přesahují reálné lidské možnosti, herní mechaniky nebo nerespektují fyzikální zákony.
+*Tento bod definuje situace, kdy jednání, činy nebo schopnosti vaší postavy přesahují reálné lidské možnosti, herní mechaniky nebo nerespektují fyzikální zákony.*
 
-​
+*Je zakázáno přes textové příkazy nebo mechaniky provádět úkony, které by reálný člověk nedokázal splnit.*
 
-Je zakázáno přes textové příkazy nebo mechaniky provádět úkony, které by reálný člověk nedokázal splnit.
+***✘ Špatně:***
 
+*/do bere auto oběma rukama a hází ho přes plot na zahradu.*
 
+*Manuální tlačení nepojízdného vozidla (např. přes Target menu / "očko") je povoleno pouze tehdy, pokud za volantem vozu sedí jiný hráč, který vozidlo ovládá a koriguje směr, a zároveň celá situace dává logický RP smysl (např. odtlačení překážky z křižovatky, nikoli tlačení vozu přes celé město).*
 
-✘ Špatně:
+***FEAR RP​***
 
-/do bere auto oběma rukama a hází ho přes plot na zahradu.
+*Tento bod definuje povinnost hráče simulovat přirozený strach o vlastní život, zdraví nebo o životy svých blízkých v ohrožujících situacích.​*
 
-Manuální tlačení nepojízdného vozidla (např. přes Target menu / "očko") je povoleno pouze tehdy, pokud za volantem vozu sedí jiný hráč, který vozidlo ovládá a koriguje směr, a zároveň celá situace dává logický RP smysl (např. odtlačení překážky z křižovatky, nikoli tlačení vozu přes celé město).
+*Postava musí v nebezpečí jednat racionálně se záměrem přežít. Pokud je v jasné nevýhodě, je povinna podřídit se hrozbě.*
 
+*Hráči musí adekvátně reagovat na autoritu policie a ozbrojených složek. Pokud postavě hrozí například vysoký trest odnětí svobody, Fear RP se projevuje i v procesní rovině zvažováním výpovědi, respektem k autoritám a spoluprací s cílem snížit si trest.*
 
+*Projevit nekompromisní odvahu nebo jednat „nebojácně“ lze pouze v případě, že to přímo vychází z dlouhodobého loru a charakteru postavy (např. vysoce cvičený člen zásahové jednotky, kriminální psychopat, mentálně nemocný jedinec). Tato změna chování musí mít pádný a doložitelný IC důvod.*
 
-**FEAR RP​**
+***WATER EVADING​***
 
-Tento bod definuje povinnost hráče simulovat přirozený strach o vlastní život, zdraví nebo o životy svých blízkých v ohrožujících situacích.​
+*Tento bod definuje zakázané praktiky při ujíždění nebo utíkání policejním a státním složkám za využití vodních ploch.​*
 
-Postava musí v nebezpečí jednat racionálně se záměrem přežít. Pokud je v jasné nevýhodě, je povinna podřídit se hrozbě.
+*Je přísně zakázáno vyhýbat se zatčení nebo mařit policejní pronásledování tím, že skočíte do vody a plavete na otevřený oceán, případně k úniku použijete vodní skútr (či jiné plavidlo) směrem daleko od pobřeží, kde vás složky nemají jak efektivně stíhat.*
 
-Hráči musí adekvátně reagovat na autoritu policie a ozbrojených složek. Pokud postavě hrozí například vysoký trest odnětí svobody, Fear RP se projevuje i v procesní rovině zvažováním výpovědi, respektem k autoritám a spoluprací s cílem snížit si trest.
+*Tento zákaz se nevztahuje na vnitrozemské vodní plochy, uzavřené nádrže a řeky (např. Alamo Sea, potoky, jezera či městské kanály), kde je únik po vodě v rámci RP situace povolen.*
 
-Projevit nekompromisní odvahu nebo jednat „nebojácně“ lze pouze v případě, že to přímo vychází z dlouhodobého loru a charakteru postavy (např. vysoce cvičený člen zásahové jednotky, kriminální psychopat, mentálně nemocný jedinec). Tato změna chování musí mít pádný a doložitelný IC důvod.
+***NON-RP DRIVING***
 
-**WATER EVADING​**
+*Tento bod definuje pravidla pro ovládání vozidel.*
 
-Tento bod definuje zakázané praktiky při ujíždění nebo utíkání policejním a státním složkám za využití vodních ploch.​
+*Hráč má povoleno s vozidlem provádět jakoukoliv manipulaci, kterou mu herní systém nebo skript umožňuje. Pokud hra či skript jízdu nijak neomezuje, není takové jednání považováno za porušení pravidel.*
 
-Je přísně zakázáno vyhýbat se zatčení nebo mařit policejní pronásledování tím, že skočíte do vody a plavete na otevřený oceán, případně k úniku použijete vodní skútr (či jiné plavidlo) směrem daleko od pobřeží, kde vás složky nemají jak efektivně stíhat.
+*V okamžiku, kdy skript nebo herní systém omezí hráče (**například: blackscreenem, vypadnutím z vozidla, odpadnutím kolem, nebo jiným herním omezením**), je hráč povinen adekvátně odRPit vzniklá zranění a následky dané události.*
 
-Tento zákaz se nevztahuje na vnitrozemské vodní plochy, uzavřené nádrže a řeky (např. Alamo Sea, potoky, jezera či městské kanály), kde je únik po vodě v rámci RP situace povolen.
+*U drobných „ťuknutí“ v nízké rychlosti není nutné okamžitě zastavovat a přerušovat jízdu či pronásledování.*
 
-**NON-RP DRIVING**
+***PRAVIDLO INVENTÁŘE​***
 
-Tento bod definuje pravidla pro realistické ovládání vozidel v souladu s fyzikou, terénem a typem daného auta.​
+*Co máš v inventáři, máš u sebe: Všechny položky a peníze v menu má postava reálně u sebe. Výjimkou je policejní „Sáček s důkazy“.*
 
-Každé vozidlo musí být řízeno způsobem, který odpovídá jeho technickým možnostem a povrchu, po kterém se pohybuje. Je zakázáno zneužívat toho, že herní engine občas dovolí projet i neprostupný terén.
+*Mechanicky prohledat hráče lze jen tehdy, když zvedne ruce (X) a vzdá se. (Neplatí pro státní složky).*
 
-V případě kolize je hráč povinen adekvátně zareagovat a od-RPit následky nehody (otřes, zranění, poškození vozu).
+*Prohledávat se může i čistě textem přes /me a /do. Prohledávaný se může přes /do ptát na konkrétní místa (např. Kde přesně mě šacuješ?).*
 
-U drobných „ťuknutí“ v nízké rychlosti není nutné okamžitě zastavovat a přerušovat jízdu či pronásledování.
-
-**PRAVIDLO INVENTÁŘE​**
-
-Co máš v inventáři, máš u sebe: Všechny položky a peníze v menu má postava reálně u sebe. Výjimkou je policejní „Sáček s důkazy“.
-
-Mechanicky prohledat hráče lze jen tehdy, když zvedne ruce (X) a vzdá se. (Neplatí pro státní složky).
-
-Prohledávat se může i čistě textem přes /me a /do. Prohledávaný se může přes /do ptát na konkrétní místa (např. Kde přesně mě šacuješ?).
-
-U sebe noste jen reálné množství peněz, které se dá fyzicky unést.
+*U sebe noste jen reálné množství peněz, které se dá fyzicky unést.*
 
 **INJURIES**
 
-Pravidlo nařizuje povinnost realisticky reagovat na fyzické poškození postavy.​
+*Pravidlo nařizuje povinnost realisticky reagovat na fyzické poškození postavy.​ Zranění musíte vždy od-RPit úměrně tomu, jak vzniklo (např. kulhání po pádu). RPit zranění jste povinni i v situaci, kdy kolem vás nikdo jiný není.*
 
-Zranění musíte vždy od-RPit úměrně tomu, jak vzniklo (např. kulhání po pádu). RPit zranění jste povinni i v situaci, kdy kolem vás nikdo jiný není.
+***Zákaz: Je zakázáno losovat úspěch provizorní léčby pomocí příkazu /try.***
 
-Zákaz /try: Je zakázáno losovat vážnost zranění nebo úspěch provizorní léčby pomocí příkazu /try.
-
-Střelná a bodná zranění může definitivně vyléčit pouze lékař (u nelegálního doktora je nutné schválení od Admin Teamu). Sami si smíte dát pouze dočasnou první pomoc (např. bandáž na zastavení krvácení).​
+*Střelná a bodná zranění může definitivně vyléčit pouze lékař (u nelegálního doktora je nutné schválení od Admin Teamu). Sami si smíte dát pouze dočasnou první pomoc (např. bandáž ).​*
 
 Pokud v nemocnici zrovna není žádný reálný doktor, musíte zranění od-RPit u NPC recepce a zapsat do systému pravdivý zdravotní záznam o tom, co se vaší postavě stalo.
+*Střelná a bodná zranění může definitivně vyléčit pouze lékař (u nelegálního doktora je nutné schválení od Admin Teamu). Sami si smíte dát pouze dočasnou první pomoc (např. bandáž na zastavení krvácení).​*
 
-**VK - VEHICLE KILL**
+*Pokud v nemocnici zrovna není žádný reálný doktor, musíte zranění od-RPit u NPC recepce a zapsat do systému pravdivý zdravotní záznam o tom, co se vaší postavě stalo.*
 
-Pravidlo definuje trvalé a neopravitelné zničení vozidla v herním světě.​
+***VK - VEHICLE KILL***
 
-Zničení cizího auta musí předem schválit Admin Tým (AT) přes ticket. Likvidaci vlastního auta stačí Admin Týmu pouze předem oznámit.
+*Pravidlo definuje trvalé a neopravitelné zničení vozidla v herním světě.​*
 
-V žádosti/oznámení musíte uvést model vozidla, pádné IC důvody k jeho zničení a detailní informace o tom, kde a jakým způsobem likvidace (VK) proběhne.
+*Zničení cizího auta musí předem schválit Admin Tým (AT) přes ticket. Likvidaci vlastního auta stačí Admin Týmu pouze předem oznámit.*
 
-Pokud na autě řádně od-RPíte zbroušení VIN kódu a toto vozidlo následně zabaví policie (PD), je mu automaticky uděleno VK (vůz je trvale odstraněn ze hry).
+*V žádosti/oznámení musíte uvést model vozidla, pádné IC důvody k jeho zničení a detailní informace o tom, kde a jakým způsobem likvidace (VK) proběhne.*
 
-**VDM - VEHICLE DEATHMATCH**
+*Pokud na autě řádně od-RPíte zbroušení VIN kódu a toto vozidlo následně zabaví policie (PD), je mu automaticky uděleno VK (vůz je trvale odstraněn ze hry).*
 
-Pravidlo zakazuje používat jakékoli vozidlo jako přímou zbraň.​
+***VDM - VEHICLE DEATHMATCH***
 
-Je přísně zakázáno bezdůvodně najíždět do ostatních hráčů nebo je srážet vozidlem.
+*Pravidlo zakazuje používat jakékoli vozidlo jako přímou zbraň.​*
 
-Vozidlo nesmíte záměrně používat k beranění a ničení cizího majetku (např. k úmyslnému demolování jiných aut).
+*Je přísně zakázáno bezdůvodně najíždět do ostatních hráčů nebo je srážet vozidlem.*
 
-Je zakázáno střílet z jakýchkoli vzdušných dopravních prostředků, včetně letadel, vrtulníků a balónů.
+*Vozidlo nesmíte záměrně používat k beranění a ničení cizího majetku (např. k úmyslnému demolování jiných aut).*
 
-**DRŽENÍ OSOB**
+*Je zakázáno střílet z jakýchkoli vzdušných dopravních prostředků, včetně letadel, vrtulníků a balónů.*
 
-Pravidlo upravuje limity a podmínky pro omezování svobody ze strany hráčů i policie (PD).
+***DRŽENÍ OSOB***
 
-Maximální doba únosu je 2 hodiny. Prodloužení z logických RP důvodů je možné pouze po vzájemné OOC dohodě obou stran. Pokud se nedohodnou, kontaktují AT.
+*Pravidlo upravuje limity a podmínky pro omezování svobody ze strany hráčů i policie (PD).*
 
-Unesená osoba nesmí být držena v interiérech přístupných pouze přes teleport.
+Maximální doba únosu je 2 hodiny. Prodloužení z logických RP důvodů je možné pouze po vzájemné OOC dohodě obou stran. Pokud se nedohodnou, kontaktují AT.*
 
-Policie (PD) smí hráče držet v CPZ maximálně 3 hodiny reálného času, pokud mu nezajišťuje aktivní RP. Po tomto limitu musí být propuštěn. Do času se nepočítá čekání na právníka nebo vyjádření vyšší instance.
+*Unesená osoba nesmí být držena v interiérech přístupných pouze přes teleport.*
 
-Držená osoba musí mít dostatek jídla a pití. Nedodržení této podmínky se trestá jako KOS (Kill on Sight).
+*Policie (PD) smí hráče držet v CPZ maximálně 3 hodiny reálného času, pokud mu nezajišťuje aktivní RP. Po tomto limitu musí být propuštěn. Do času se nepočítá čekání na právníka nebo vyjádření vyšší instance.*
 
-Trest od PD či soudu musíte aktivně od-RPit. Pokud se musíte odpojit z reálných důvodů a trest je dlouhý, je nutná OOC domluva s Admin Týmem (AT).
+*Držená osoba musí mít dostatek jídla a pití. Nedodržení této podmínky se trestá jako KOS (Kill on Sight).*
 
-Útěk z výkonu trestu je zakázán. Výjimkou je pouze předem schválená akce od AT.
+*Trest od PD či soudu musíte aktivně od-RPit. Pokud se musíte odpojit z reálných důvodů a trest je dlouhý, je nutná OOC domluva s Admin Týmem (AT).*
 
-**KRÁDEŽE**
+*Útěk z výkonu trestu je zakázán. Výjimkou je pouze předem schválená akce od AT.*
 
-Nečíhejte u teleportů do domů a bytů, abyste někoho vykradli. Pokud ale majitel nechá dveře odemčené, můžete jeho interiér vybrat (neplatí pro skriptované vykrádačky).
+***KRÁDEŽE***
 
-Je zakázáno kempit na brigádách za účelem okrádání nebo únosů pracujících hráčů.
+*Nečíhejte u teleportů do domů a bytů, abyste někoho vykradli. Pokud ale majitel nechá dveře odemčené, můžete jeho interiér vybrat (neplatí pro skriptované vykrádačky).*
 
-Okrást taxikáře ve službě je povoleno pouze s velmi silným RP důvodem.
+*Je zakázáno kempit na brigádách za účelem okrádání nebo únosů pracujících hráčů.*
 
-Všechna vozidla státních složek a taxislužby mají aktivní palubní kamery.
+*Okrást taxikáře ve službě je povoleno pouze s velmi silným RP důvodem.*
 
-Nesmíte nikoho nutit k přepisu majetku (domy, auta) ani k výběru/převodu peněz z banky. Vzít mu můžete jen to, co má u sebe v inventáři.
+*Všechna vozidla státních složek a taxislužby mají aktivní palubní kamery.*
 
-**KOS - KILL ON SIGHT**
+*Nesmíte nikoho nutit k přepisu majetku (domy, auta) ani k výběru/převodu peněz z banky. Vzít mu můžete jen to, co má u sebe v inventáři.*
 
-Pravidlo zakazuje likvidaci ostatních hráčů bez předchozího slovního nebo herního varování a bez jasného logického důvodu.
+***KOS - KILL ON SIGHT***
 
-Je přísně zakázáno napadnout a zabít jiného hráče „na první pohled“ bez jakékoli předchozí RP interakce a silného IC důvodu.
+*Pravidlo zakazuje likvidaci ostatních hráčů bez předchozího slovního nebo herního varování a bez jasného logického důvodu.*
 
-Při běžné silniční kontrole (traffic stopu) je zakázáno okamžitě střílet nebo zabíjet příslušníky státních složek (PD), pokud situaci nepředcházela dostatečně dlouhá interakce a neexistuje k tomu zásadní RP důvod (např. snaha vyhnout se okamžitému doživotnímu vězení).
+*Je přísně zakázáno napadnout a zabít jiného hráče „na první pohled“ bez jakékoli předchozí RP interakce a silného IC důvodu.*
 
-**PASSIVE RP**
+*Při běžné silniční kontrole (traffic stopu) je zakázáno okamžitě střílet nebo zabíjet příslušníky státních složek (PD), pokud situaci nepředcházela dostatečně dlouhá interakce a neexistuje k tomu zásadní RP důvod (např. snaha vyhnout se okamžitému doživotnímu vězení).*
 
-Pravidlo definuje chování v herním světě s ohledem na fiktivní obyvatelstvo, kamery a bezpečnostní systémy, které existují nezávisle na přítomnosti reálných hráčů.
+***PASSIVE RP***
+
+*Pravidlo definuje chování v herním světě s ohledem na fiktivní obyvatelstvo, kamery a bezpečnostní systémy, které existují nezávisle na přítomnosti reálných hráčů.*
 
 **Obecné zásady**
 
-Veřejná prostranství jsou podle lore serveru plná lidí. Město žije, i když v okolí zrovna nikdo není – kdokoli vás může vidět. Passive RP musíte dodržovat vždy, i o samotě.
+*Veřejná prostranství jsou podle lore serveru plná lidí. Město žije, i když v okolí zrovna nikdo není – kdokoli vás může vidět. Passive RP musíte dodržovat vždy, i o samotě.*
 
-Passive RP v interiéru
+*Passive RP v interiéru*
 
-Všechny interiéry (otevřené i na port) jsou na serveru uzamčené.
+*Všechny interiéry (otevřené i na port) jsou na serveru uzamčené.*
 
-Je zakázáno RPit v interiérech, které nepatří do schválených výjimek, a to i když jsou prázdné a nikomu nepatří.
+*Je zakázáno RPit v interiérech, které nepatří do schválených výjimek, a to i když jsou prázdné a nikomu nepatří.*
 
-Povolené výjimky:
+*Povolené výjimky:*
 
-Veřejná správa: EMS, PD, FD, GOV, Úřad práce apod.
+*Veřejná správa: EMS, PD, FD, GOV, Úřad práce apod.*
 
-Veřejné služby: PDM, obchody, benzínky apod.
+*Veřejné služby: PDM, obchody, benzínky apod.*
 
-Budovy veřejné správy a služeb jsou nonstop plné zaměstnanců a funkčních kamerových systémů.
+*Budovy veřejné správy a služeb jsou nonstop plné zaměstnanců a funkčních kamerových systémů.*
 
-Vniknutí do sídla frakce se řídí specifickými pravidly frakcí.
+*Vniknutí do sídla frakce se řídí specifickými pravidly frakcí.*
 
-Passive RP v exteriéru
+*Passive RP v exteriéru*
 
-Doky, továrny či státní areály mají hlídače a kamery. Nelze je zneužívat k únosům či vraždám „beze svědků“.
+*Doky, továrny či státní areály mají hlídače a kamery. Nelze je zneužívat k únosům či vraždám „beze svědků“.
 
-Bez vážného důvodu nesmíte na ulici nikoho ohrožovat zbraní – hrozí okamžité nahlášení fiktivními svědky.
+*Bez vážného důvodu nesmíte na ulici nikoho ohrožovat zbraní – hrozí okamžité nahlášení fiktivními svědky.*
 
-Při únosu na osídleném místě musíte zadat příkaz /911 s informacemi pro PD (typ/barva auta, počet osob, směr jízdy).
+*Při únosu na osídleném místě musíte zadat příkaz /911 s informacemi pro PD (typ/barva auta, počet osob, směr jízdy).*
 
-Oblasti se zvýšenou kriminalitou, kde mohou být obyvatelé ozbrojeni. Složky EMS a FD by měly zvážit asistenci PD (pohyb je povolen, nutno přizpůsobit Fear RP).
+Oblasti se zvýšenou kriminalitou, kde mohou být obyvatelé ozbrojeni. Složky EMS a FD by měly zvážit asistenci PD (pohyb je povolen, nutno přizpůsobit Fear RP).*
 
-Je zakázáno sledovat (kempit) obchody a zákazníky, kteří k nim přijíždějí nebo odjíždějí.
+*Oblasti se zvýšenou kriminalitou, kde mohou být obyvatelé ozbrojeni. Složky EMS a FD by měly zvážit asistenci PD (pohyb je povolen, nutno přizpůsobit Fear RP).*
 
-Kamery lze RPit pouze ve výše zmíněných objektech veřejné správy/služeb, na místech s reálným herním modelem (propem) kamery, nebo ve vozidlech státních složek a taxi.
+*Je zakázáno sledovat (kempit) obchody a zákazníky, kteří k nim přijíždějí nebo odjíždějí.*
 
-Uvnitř policejních stanic a na jejich parkovištích je přísně zakázáno kohokoli zranit nebo zabít (včetně NPC). Výjimkou je pouze kvalitní RP důvod předem schválený přes ticket.
+*Kamery lze RPit pouze ve výše zmíněných objektech veřejné správy/služeb, na místech s reálným herním modelem (propem) kamery, nebo ve vozidlech státních složek a taxi.*
 
-Výjimky z Passive RP (Žádost přes ticket)
+*Uvnitř policejních stanic a na jejich parkovištích je přísně zakázáno kohokoli zranit nebo zabít (včetně NPC). Výjimkou je pouze kvalitní RP důvod předem schválený přes ticket.*
 
-S povolením AT lze určité objekty (např. opuštěné fabriky) jednorázově vyjmout z Passive RP. V ticketu musíte uvést:
+*Výjimky z Passive RP (Žádost přes ticket)*
 
-Přesný objekt (interiér/exteriér)
+*S povolením AT lze určité objekty (např. opuštěné fabriky) jednorázově vyjmout z Passive RP. V ticketu musíte uvést:*
 
-Záměr využití (např. únos)
+*Přesný objekt (interiér/exteriér)*
 
-V případě schválení se místo bere jako neosídlené, bez kamer a ochranky (stále se však v okolí mohou vyskytovat náhodní kolemjdoucí).
+*Záměr využití (např. únos)*
 
-**VOLBA A CHARAKTER POSTAV**
+*V případě schválení se místo bere jako neosídlené, bez kamer a ochranky (stále se však v okolí mohou vyskytovat náhodní kolemjdoucí).*
 
-Pravidla pro zakládání, vývoj a chování herních postav v San Andreas.
+***VOLBA A CHARAKTER POSTAV***
 
-Vaše postava musí mít vlastní historii a logické zázemí (lore). Její chování a povaha by se měly přirozeně formovat na základě toho, co v herním světě prožije.
+*Pravidla pro zakládání, vývoj a chování herních postav v San Andreas.*
 
-Je dovoleno hrát pouze dospělé, plnoleté osoby.
+*Vaše postava musí mít vlastní historii a logické zázemí (lore). Její chování a povaha by se měly přirozeně formovat na základě toho, co v herním světě prožije.*
 
-Každý hráč začíná s jedním charakterem. Pokud chcete hrát více postav současně, musíte si podat žádost u Admin Týmu (AT).
+*Je dovoleno hrát pouze dospělé, plnoleté osoby.*
 
-Pokud vaše postava dostane Character Kill (CK), nová postava s ní nesmí mít nic společného (žádní sourozenci, dědicové ani přátelé). Mezi vašimi vlastními postavami nesmí existovat žádné vazby.
+*Každý hráč začíná s jedním charakterem. Pokud chcete hrát více postav současně, musíte si podat žádost u Admin Týmu (AT).*
 
-Přísné zákazy při tvorbě
+*Pokud vaše postava dostane Character Kill (CK), nová postava s ní nesmí mít nic společného (žádní sourozenci, dědicové ani přátelé). Mezi vašimi vlastními postavami nesmí existovat žádné vazby.*
 
-Zapomeňte na jména a identitu reálných osobností, herců, zpěváků nebo postav z filmů, seriálů a her.
+*Přísné zákazy při tvorbě*
 
-Postava musí logicky zapadat do amerického prostředí. Jsou zakázány typicky české či slovenské charaktery a stereotypní parodie (např. karikatury šišlajících Asiatů). Slovenština se nesmí používat jako herní přízvuk.
+*Zapomeňte na jména a identitu reálných osobností, herců, zpěváků nebo postav z filmů, seriálů a her.*
 
-Je zakázáno hrát členy teroristických buněk nebo organizací zaměřených na plošné násilí.
+*Postava musí logicky zapadat do amerického prostředí. Jsou zakázány typicky české či slovenské charaktery a stereotypní parodie (např. karikatury šišlajících Asiatů). Slovenština se nesmí používat jako herní přízvuk.*
 
-Co musíte předem schválit přes ticket?
+*Je zakázáno hrát členy teroristických buněk nebo organizací zaměřených na plošné násilí.
 
-Následující typy charakterů nesmíte hrát bez výslovného povolení od AT:
+*Co musíte předem schválit přes ticket?
 
-Lidi s těžkými psychickými poruchami nebo labilním chováním.
+*Následující typy charakterů nesmíte hrát bez výslovného povolení od AT:
 
-Transgender charaktery a roleplay opačného pohlaví (např. pokud muž chce hrát ženskou postavu).
+*Lidi s těžkými psychickými poruchami nebo labilním chováním.
 
-**CK - DEFINITIVNÍ SMRT POSTAVY**
+*Transgender charaktery a roleplay opačného pohlaví (např. pokud muž chce hrát ženskou postavu).
 
-Character Kill znamená, že příběh vaší postavy v Los Santos definitivně končí. Je to vážný krok a má svá přísná pravidla.
+***CK - DEFINITIVNÍ SMRT POSTAVY***
 
-Společná pravidla pro každé CK
+*Character Kill znamená, že příběh vaší postavy v Los Santos definitivně končí. Je to vážný krok a má svá přísná pravidla.*
 
-Je přísně zakázáno popravit někoho odstřelovací puškou (sniperkou).
+*Společná pravidla pro každé CK*
 
-Jakmile k zabití dojde, musíte do místního OOC chatu okamžitě napsat: CK - [Celé jméno postavy].
+*Je přísně zakázáno popravit někoho odstřelovací puškou (sniperkou).*
 
-S novou postavou máte na dva týdny zákaz jakékoliv nelegální činnosti s partou nebo frakcí, ve které jela vaše stará postava. Legálně se s nimi bavit a seznamovat můžete.
+*Jakmile k zabití dojde, musíte do místního OOC chatu okamžitě napsat: **CK - [Celé jméno postavy]**.*
 
-Pokud máte pocit, že bylo CK nespravedlivé, můžete se proti rozhodnutí adminů odvolat.
+*S novou postavou máte na dva týdny zákaz jakékoliv nelegální činnosti s partou nebo frakcí, ve které jela vaše stará postava. Legálně se s nimi bavit a seznamovat můžete.*
 
-CK na cizí postavu (Plánovaná poprava)
+*Pokud máte pocit, že bylo CK nespravedlivé, můžete se proti rozhodnutí adminů odvolat.*
 
-Pokud chcete někoho trvale odstranit z RP, musíte si nejprve založit ticket a nechat si akci schválit od Admin Týmu (AT).
+*CK na cizí postavu (Plánovaná poprava)*
 
-Poznámka: Pokud plánujete CK na člena admin týmu, žádost posílejte rovnou do ticketu pro vedení projektu.
+*Pokud chcete někoho trvale odstranit z RP, musíte si nejprve založit ticket a nechat si akci schválit od Admin Týmu (AT).*
 
-Po schválení a provedení akce musíte do ticketu dopsat detaily: kde přesně se to stalo a jakým způsobem jste oběť zlikvidovali.
+*Poznámka: Pokud plánujete CK na člena admin týmu, žádost posílejte rovnou do ticketu pro vedení projektu.*
 
-Self CK (Ukončení vlastní postavy)
+*Po schválení a provedení akce musíte do ticketu dopsat detaily: kde přesně se to stalo a jakým způsobem jste oběť zlikvidovali.*
 
-Chcete-li příběh své postavy uzavřít sami (sebevražda, neštěstí atd.), nemusíte žádat předem. Stačí akci provést a pak do ticketu nahlásit místo a způsob smrti.
+*Self CK (Ukončení vlastní postavy)*
 
-Nemůžete dát své postavě Self CK jen proto, že vám jiný hráč dal PK (zranění a výpadek paměti). Výjimkou je, pokud útočník dobrovolně přijme IC odpovědnost za vaši smrt, nebo vám to povolí AT.
+*Chcete-li příběh své postavy uzavřít sami (sebevražda, neštěstí atd.), nemusíte žádat předem. Stačí akci provést a pak do ticketu nahlásit místo a způsob smrti.*
 
-Postavu musíte hrát aspoň 30 dní, než jí můžete dát Self CK. Kratší dobu vám musí schválit admini.
+*Nemůžete dát své postavě Self CK jen proto, že vám jiný hráč dal PK (zranění a výpadek paměti). Výjimkou je, pokud útočník dobrovolně přijme IC odpovědnost za vaši smrt, nebo vám to povolí AT.*
 
-Self CK nesmí sloužit jako úniková cesta před herními problémy, dluhy nebo nepřáteli. Pokud to tak bude, AT může vaše CK zrušit. Ilegální postavy navíc nesmí skončit fiktivním „odletem“. Šéfové frakcí potřebují schválení vždy.
+*Postavu musíte hrát aspoň 30 dní, než jí můžete dát Self CK. Kratší dobu vám musí schválit admini.*
 
-Situační CK (Spontánní reakce)
+*Self CK nesmí sloužit jako úniková cesta před herními problémy, dluhy nebo nepřáteli. Pokud to tak bude, AT může vaše CK zrušit. Ilegální postavy navíc nesmí skončit fiktivním „odletem“. Šéfové frakcí potřebují schválení vždy.*
 
-Tohle CK nikdo neplánuje dopředu, vyplyne přímo z vyhrocené situace (např. vaše postava psychicky nezvládne, když jí před očima popraví nejlepšího kamaráda, a vrhne se pod kola).
+*Situační CK (Spontánní reakce)*
 
-Pokud někoho unesete a on totálně ignoruje Fear RP (hraje si na hrdinu, vysmívá se zbraním), pošlete in-game report. Admin vám může schválit Situační CK pro tohoto hráče na místě. Pokud admin neodpovídá, celou situaci natočte na video a pošlete dodatečně do ticketu.
+*Tohle CK nikdo neplánuje dopředu, vyplyne přímo z vyhrocené situace (např. vaše postava psychicky nezvládne, když jí před očima popraví nejlepšího kamaráda, a vrhne se pod kola).*
 
-Situační CK nemůžete jen tak udělat lídrovi frakce, tam je vždy nutné posouzení od AT.
+*Pokud někoho unesete a on totálně ignoruje Fear RP (hraje si na hrdinu, vysmívá se zbraním), pošlete in-game report. Admin vám může schválit Situační CK pro tohoto hráče na místě. Pokud admin neodpovídá, celou situaci natočte na video a pošlete dodatečně do ticketu.*
 
-Po každém situačním CK musíte do ticketu zapsat detaily a to, jak jste za-RPili úklid těla a místa činu.
+*Situační CK nemůžete jen tak udělat lídrovi frakce, tam je vždy nutné posouzení od AT.*
 
-Jail CK (Doživotí / Trest smrti)
+*Po každém situačním CK musíte do ticketu zapsat detaily a to, jak jste za-RPili úklid těla a místa činu.*
 
-Tohle CK vám nedají hráči, ale soud nebo policie (PD) za vaše hříchy.
+*Jail CK (Doživotí / Trest smrti)*
 
-Jakmile nasbíráte v rejstříku tresty v celkové hodnotě 75 let vězení, dostáváte automaticky doživotní stopku (Jail CK). Akci předem posvěcuje Admin Tým.
+*Tohle CK vám nedají hráči, ale soud nebo policie (PD) za vaše hříchy.*
 
-**STÁTNÍ SLOŽKY A INSTITUCE**
+*Jakmile nasbíráte v rejstříku tresty v celkové hodnotě 75 let vězení, dostáváte automaticky doživotní stopku (Jail CK). Akci předem posvěcuje Admin Tým.*
 
-Tento blok pravidel upravuje interakce mezi běžnými hráči (zejména kriminálníky) a státními aparáty (PD, EMS, FD, GOV). Cílem je udržet balanc a zamezit zbytečnému zdržování, trollingu nebo zneužívání mechanik.
+***STÁTNÍ SLOŽKY A INSTITUCE***
 
-Interakce se státem a zákazy
+*Tento blok pravidel upravuje interakce mezi běžnými hráči (zejména kriminálníky) a státními aparáty (PD, EMS, FD, GOV). Cílem je udržet balanc a zamezit zbytečnému zdržování, trollingu nebo zneužívání mechanik.*
 
-Je přísně zakázáno cíleně provokovat a bezdůvodně okrádat policisty nebo vládní úředníky jen pro zábavu. Každý takový čin musí mít neprůstřelný RP důvod.
+*Interakce se státem a zákazy*
 
-Všechny itemy a zbraně, které u sebe policista v inventáři reálně má, má u sebe i v RP. Nelze tvrdit, že „tohle nevidíš, protože to mám v autě“.
+*Je přísně zakázáno cíleně provokovat a bezdůvodně okrádat policisty nebo vládní úředníky jen pro zábavu. Každý takový čin musí mít neprůstřelný RP důvod.*
 
-Hraní zkorumpovaného policisty, lékaře nebo úředníka je bez předchozího schválení od Admin Týmu (AT) zakázáno.
+*Všechny itemy a zbraně, které u sebe policista v inventáři reálně má, má u sebe i v RP. Nelze tvrdit, že „tohle nevidíš, protože to mám v autě“.*
 
-Státní složky nesmí hráče schválně zdržovat na služebnách a uměle prodlužovat RP akce. Vše musí běžet plynule.
+*Hraní zkorumpovaného policisty, lékaře nebo úředníka je bez předchozího schválení od Admin Týmu (AT) zakázáno.*
 
-Pravidla pro automobilové honičky
+*Státní složky nesmí hráče schválně zdržovat na služebnách a uměle prodlužovat RP akce. Vše musí běžet plynule.*
 
-Během aktivního ujíždění policii nesmíte zajet k veřejné garáži a auto tam bleskově schovat, ani z ní vytáhnout jiné, čerstvé vozidlo a pokračovat v útěku.
+*Pravidla pro automobilové honičky*
 
-Pokud policii úspěšně ujedete, musíte zůstat ve hře ještě minimálně 15 minut. Okamžité odpojení ze serveru po ztrátě z dohledu se trestá.
+*Během aktivního ujíždění policii nesmíte zajet k veřejné garáži a auto tam bleskově schovat, ani z ní vytáhnout jiné, čerstvé vozidlo a pokračovat v útěku.*
 
-Krádeže státních vozidel
+*Pokud policii úspěšně ujedete, musíte zůstat ve hře ještě minimálně 15 minut. Okamžité odpojení ze serveru po ztrátě z dohledu se trestá.*
 
-Auto policie, EMS nebo hasičů můžete ukrást jako nouzové řešení (např. když vám ujede vlastní odvoz a potřebujete okamžitě zmizet z místa činu).
+*Krádeže státních vozidel*
 
-Je zakázáno si tato auta nechávat, schovávat je nebo s nimi dlouhodobě jezdit. Výjimku tvoří pouze komplexní RP plány předem schválené přes ticket u AT.
+*Auto policie, EMS nebo hasičů můžete ukrást jako nouzové řešení (např. když vám ujede vlastní odvoz a potřebujete okamžitě zmizet z místa činu).*
+
+*Je zakázáno si tato auta nechávat, schovávat je nebo s nimi dlouhodobě jezdit. Výjimku tvoří pouze komplexní RP plány předem schválené přes ticket u AT.*
 
 *Upozornění: Všechna státní vozidla mají aktivní palubní kamery, s čímž musíte v RP počítat.*
 
