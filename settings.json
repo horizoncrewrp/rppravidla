@@ -1,14 +1,14 @@
 {
     "todo-tree.general.tags": [
-        "✔ Správně::",
-        "✘ Špatně::"
+        "SPRAVNE:",
+        "SPATNE:"
     ],
     "todo-tree.highlights.customHighlight": {
-        "✔ Správně::": {
+        "SPRAVNE:": {
             "foreground": "#4CAF50",
             "type": "line"
         },
-        "✘ Špatně::": {
+        "SPATNE:": {
             "foreground": "#F44336",
             "type": "line"
         }
