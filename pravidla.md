@@ -1,6 +1,6 @@
 ## Základní Pravidla
 
-**RP - RolePlay**
+***RP - RolePlay**
 
 Roleplay reprezentuje simulaci fiktivního lidského života, v němž hráč ztvárňuje specifický charakter s vlastním zázemím a historií. Tento příběh a osobnostní rysy postavy se následně aktivně vyvíjejí a projevují skrze veškeré interakce a rozhodnutí v rámci otevřeného herního světa.
 
@@ -360,4 +360,4 @@ Maximální doba držení v cele předběžného zadržení je 2 hodiny. Policie
 
  Chcete-li RPit nelegálního chirurga, který ošetřuje postřelené gangstry bez hlášení policii, potřebujete schválení od AT. V ticketu musíte navíc obhájit, jak vaše postava sehnala drahé lékařské vybavení a kde má utajenou ordinaci.
 
-**Důležitá poznámka:** Pro všechny hráče platí povinnost sledovat a dodržovat interní OOC sekce na oficiálních Discordech jednotlivých státních frakcí, kde jsou specifická pravidla dále rozvedena.
+**Důležitá poznámka:** Pro všechny hráče platí povinnost sledovat a dodržovat interní OOC sekce na oficiálních Discordech jednotlivých státních frakcí, kde jsou specifická pravidla dále rozvedena.*
