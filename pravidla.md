@@ -22,7 +22,7 @@
 
 *Příklad:*
 
-***✔ Správně:***
+`***✔ Správně:***`
 
 ***/me Pokouší se vykopnout staré dřevěné dveře od kůlny. (Systém vyhodnotí úspěch/neúspěch)***
 
