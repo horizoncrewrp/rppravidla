@@ -21,14 +21,12 @@
 *Příkaz určený k textovému popisu činností, emocí a nálad postavy, které nelze vyjádřit standardními herními animacemi.*
 
 *Příklad:*
-```diff
-+ ***✔ Správně:***
-```
+
 ***✔ Správně:***
 
-***/me Pokouší se vykopnout staré dřevěné dveře od kůlny. (Systém vyhodnotí úspěch/neúspěch)***
+🟢 ***/me Pokouší se vykopnout staré dřevěné dveře od kůlny. (Systém vyhodnotí úspěch/neúspěch)***
 
-***/me Snaží se nahmatat klíče v hluboké kapse u kalhot. (Systém určí, zda postava klíče našla)***
+🟢 ***/me Snaží se nahmatat klíče v hluboké kapse u kalhot. (Systém určí, zda postava klíče našla)***
 
 ***/DO***
 
@@ -38,9 +36,9 @@
 
 ***✔ Správně:***
 
-*/do Na stole leží stará zamčená truhla. Lze jí zvednout. (Popis prostředí na jiného hráče)*
+🟢***/do Na stole leží stará zamčená truhla. Lze jí zvednout. (Popis prostředí na jiného hráče)***
 
-*/do V peněžence má pouze občanský průkaz a 5000 $, zbytek dokladů chybí (Širší popis situace/předmětu při prohledávání)*
+🟢***/do V peněžence má pouze občanský průkaz a 5000 $, zbytek dokladů chybí (Širší popis situace/předmětu při prohledávání)***
 
 ***MIXING***
 
@@ -56,7 +54,7 @@
 
 ***✔ Správně:***
 
-*Hráč během zatýkání policií začne do herního hlasového chatu křičet: „Hele, ty mi nemůžeš dát vězení na hodinu, protože v pravidlech na Discordu je napsané maximum 30 minut a tvůj šéf frakce mi to schválil!“ (Zatažení OOC pravidel a Discordu do IC rozhovoru)*
+🟢 ***Hráč během zatýkání policií začne do herního hlasového chatu křičet: „Hele, ty mi nemůžeš dát vězení na hodinu, protože v pravidlech na Discordu je napsané maximum 30 minut a tvůj šéf frakce mi to schválil!“ (Zatažení OOC pravidel a Discordu do IC rozhovoru)***
 
 ***METAGAMING​***
 
@@ -81,7 +79,7 @@
 *Je zakázáno přes textové příkazy nebo mechaniky provádět úkony, které by reálný člověk nedokázal splnit.*
 
 ***✘ Špatně:***
-SPATNE: */do bere auto oběma rukama a hází ho přes plot na zahradu.*
+🔴 */do bere auto oběma rukama a hází ho přes plot na zahradu.*
 
 *Manuální tlačení nepojízdného vozidla (např. přes Target menu / "očko") je povoleno pouze tehdy, pokud za volantem vozu sedí jiný hráč, který vozidlo ovládá a koriguje směr, a zároveň celá situace dává logický RP smysl (např. odtlačení překážky z křižovatky, nikoli tlačení vozu přes celé město).*
 
@@ -160,7 +158,7 @@ Pokud v nemocnici zrovna není žádný reálný doktor, musíte zranění od-RP
 
 *Pravidlo upravuje limity a podmínky pro omezování svobody ze strany hráčů i policie (PD).*
 
-Maximální doba únosu je 2 hodiny. Prodloužení z logických RP důvodů je možné pouze po vzájemné OOC dohodě obou stran. Pokud se nedohodnou, kontaktují AT.*
+*Maximální doba únosu je 2 hodiny. Prodloužení z logických RP důvodů je možné pouze po vzájemné OOC dohodě obou stran. Pokud se nedohodnou, kontaktují AT.*
 
 *Unesená osoba nesmí být držena v interiérech přístupných pouze přes teleport.*
 
@@ -354,4 +352,4 @@ Oblasti se zvýšenou kriminalitou, kde mohou být obyvatelé ozbrojeni. Složky
 
  *Chcete-li RPit nelegálního chirurga, který ošetřuje postřelené gangstry bez hlášení policii, potřebujete schválení od AT. V ticketu musíte navíc obhájit, jak vaše postava sehnala drahé lékařské vybavení a kde má utajenou ordinaci.*
 
-***Důležitá poznámka:** Pro všechny hráče platí povinnost sledovat a dodržovat interní OOC sekce na oficiálních Discordech jednotlivých státních frakcí, kde jsou specifická pravidla dále rozvedena.*
+🔵 ***Důležitá poznámka:** Pro všechny hráče platí povinnost sledovat a dodržovat interní OOC sekce na oficiálních Discordech jednotlivých státních frakcí, kde jsou specifická pravidla dále rozvedena.*
