@@ -1,36 +1,29 @@
 <style>
-  html, body {
+  /* Kompletní přebarvení celé stránky na tmavou */
+  :root, html, body, .markdown-body {
     background-color: #121212 !important;
     background: #121212 !important;
     color: #e0e0e0 !important;
+  }
+  
+  body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
     max-width: 800px;
     margin: 0 auto;
     padding: 2rem;
     line-height: 1.6;
   }
+  
   h1, h2, h3, h4 {
     color: #ffffff !important;
     border-bottom: 1px solid #333 !important;
     padding-bottom: 0.3em;
   }
+  
   hr {
     background-color: #333 !important;
     height: 1px;
     border: none;
-  }
-  code {
-    background-color: #1d1d1d !important;
-    color: #ff79c6 !important;
-    padding: 0.2em 0.4em;
-    border-radius: 6px;
-  }
-  a {
-    color: #8be9fd !important;
-  }
-  .markdown-body {
-    background-color: #121212 !important;
-    color: #e0e0e0 !important;
   }
 </style>
 
