@@ -354,4 +354,4 @@ Oblasti se zvýšenou kriminalitou, kde mohou být obyvatelé ozbrojeni. Složky
 
  *Chcete-li RPit nelegálního chirurga, který ošetřuje postřelené gangstry bez hlášení policii, potřebujete schválení od AT. V ticketu musíte navíc obhájit, jak vaše postava sehnala drahé lékařské vybavení a kde má utajenou ordinaci.*
 
-🔵 ***Důležitá poznámka:** Pro všechny hráče platí povinnost sledovat a dodržovat interní OOC sekce na oficiálních Discordech jednotlivých státních frakcí, kde jsou specifická pravidla dále rozvedena.*
+<span class="modra">***Důležitá poznámka:** Pro všechny hráče platí povinnost sledovat a dodržovat interní OOC sekce na oficiálních Discordech jednotlivých státních frakcí, kde jsou specifická pravidla dále rozvedena.*</span>
