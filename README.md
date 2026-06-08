@@ -1,32 +1,32 @@
 ## Základní Pravidla
 
-***RP - RolePlay***
+<span class="oranzova">***RP - RolePlay***</span>
 
 *Roleplay reprezentuje simulaci fiktivního lidského života, v němž hráč ztvárňuje specifický charakter s vlastním zázemím a historií. Tento příběh a osobnostní rysy postavy se následně aktivně vyvíjejí a projevují skrze veškeré interakce a rozhodnutí v rámci otevřeného herního světa.*
 
-***IC - In Character***
+<span class="oranzova">***IC - In Character***</span>
 
 *Tento termín definuje stav aktivního ztvárňování role v herním prostředí. Jedná se o situace, kdy veškeré jednání, mluvený projev a interakce hráče probíhají výhradně v rámci identity jeho fiktivní postavy.*
 
 *V tomto režimu se hráč plně adaptuje na charakterové vlastnosti své role a na okolní podněty či ostatní účastníky reaguje způsobem, který je v souladu s náturou a historií jeho postavy.*
 
-***OOC - OUT OF CHARACTER***
+<span class="oranzova">***OOC - OUT OF CHARACTER***</span>
 
 *Tento termín označuje proces vystoupení z herní role. Jedná se o moment, kdy hráč jedná, komunikuje nebo popisuje situace sám za sebe jako osobu, nikoliv za svou fiktivní postavu.*
 
 *Jakákoliv aktivita v tomto režimu narušuje kontinuitu herního světa a je přípustná pouze v jasně vymezených technických či organizačních případech.*
 
-***/ME***
+<span class="oranzova">***/ME***</span>
 
 *Příkaz určený k textovému popisu činností, emocí a nálad postavy, které nelze vyjádřit standardními herními animacemi.*
 
 *Příklad:*
 
-***✔ Správně:***
+<span class="zelena">***✔ Správně:***</span>
 
-🟢 ***/me Pokouší se vykopnout staré dřevěné dveře od kůlny. (Systém vyhodnotí úspěch/neúspěch)***
+<span class="zelena">***/me Pokouší se vykopnout staré dřevěné dveře od kůlny. (Systém vyhodnotí úspěch/neúspěch)***</span>
 
-🟢 ***/me Snaží se nahmatat klíče v hluboké kapse u kalhot. (Systém určí, zda postava klíče našla)***
+<span class="zelena">***/me Snaží se nahmatat klíče v hluboké kapse u kalhot. (Systém určí, zda postava klíče našla)***</span>
 
 ***/DO***
 
@@ -34,11 +34,11 @@
 
 *Příklad:*
 
-***✔ Správně:***
+<span class="zelena">***✔ Správně:***</span>
 
-🟢***/do Na stole leží stará zamčená truhla. Lze jí zvednout. (Popis prostředí na jiného hráče)***
+<span class="zelena">***/do Na stole leží stará zamčená truhla. Lze jí zvednout. (Popis prostředí na jiného hráče)***</span>
 
-🟢***/do V peněžence má pouze občanský průkaz a 5000 $, zbytek dokladů chybí (Širší popis situace/předmětu při prohledávání)***
+<span class="zelena">***/do V peněžence má pouze občanský průkaz a 5000 $, zbytek dokladů chybí (Širší popis situace/předmětu při prohledávání)***</span>
 
 ***MIXING***
 
@@ -52,9 +52,9 @@
 
 *Cílené vyhledávání nebo naopak záměrné ignorování herních postav a skupin na základě osobních (OOC) sympatií, antipatií či kamarádství mimo server je považováno za závažnou formu mixingu*
 
-***✔ Správně:***
+<span class="zelena">***✔ Správně:***</span>
 
-🟢 ***Hráč během zatýkání policií začne do herního hlasového chatu křičet: „Hele, ty mi nemůžeš dát vězení na hodinu, protože v pravidlech na Discordu je napsané maximum 30 minut a tvůj šéf frakce mi to schválil!“ (Zatažení OOC pravidel a Discordu do IC rozhovoru)***
+<span class="zelena">***Hráč během zatýkání policií začne do herního hlasového chatu křičet: „Hele, ty mi nemůžeš dát vězení na hodinu, protože v pravidlech na Discordu je napsané maximum 30 minut a tvůj šéf frakce mi to schválil!“ (Zatažení OOC pravidel a Discordu do IC rozhovoru)***</span>
 
 ***METAGAMING​***
 
@@ -78,9 +78,9 @@
 
 *Je zakázáno přes textové příkazy nebo mechaniky provádět úkony, které by reálný člověk nedokázal splnit.*
 
-***✘ Špatně:***
+<span class="cervena">***✘ Špatně:***</span>
 
-🔴 */do bere auto oběma rukama a hází ho přes plot na zahradu.*
+<span class="cervena">*/do bere auto oběma rukama a hází ho přes plot na zahradu.*</span>
 
 *Manuální tlačení nepojízdného vozidla (např. přes Target menu / "očko") je povoleno pouze tehdy, pokud za volantem vozu sedí jiný hráč, který vozidlo ovládá a koriguje směr, a zároveň celá situace dává logický RP smysl (např. odtlačení překážky z křižovatky, nikoli tlačení vozu přes celé město).*
 
@@ -290,7 +290,7 @@ Oblasti se zvýšenou kriminalitou, kde mohou být obyvatelé ozbrojeni. Složky
 
 *Pokud chcete někoho trvale odstranit z RP, musíte si nejprve založit ticket a nechat si akci schválit od Admin Týmu (AT).*
 
-*Poznámka: Pokud plánujete CK na člena admin týmu, žádost posílejte rovnou do ticketu pro vedení projektu.*
+<span class="modra">*Poznámka: Pokud plánujete CK na člena admin týmu, žádost posílejte rovnou do ticketu pro vedení projektu.*</span>
 
 *Po schválení a provedení akce musíte do ticketu dopsat detaily: kde přesně se to stalo a jakým způsobem jste oběť zlikvidovali.*
 
@@ -314,15 +314,13 @@ Oblasti se zvýšenou kriminalitou, kde mohou být obyvatelé ozbrojeni. Složky
 
 *Po každém situačním CK musíte do ticketu zapsat detaily a to, jak jste za-RPili úklid těla a místa činu.*
 
-*Jail CK (Doživotí / Trest smrti)*
+*Jail CK*
 
 *Tohle CK vám nedají hráči, ale soud nebo policie (PD) za vaše hříchy.*
 
 *Jakmile nasbíráte v rejstříku tresty v celkové hodnotě 75 let vězení, dostáváte automaticky doživotní stopku (Jail CK). Akci předem posvěcuje Admin Tým.*
 
 ***STÁTNÍ SLOŽKY A INSTITUCE***
-
-*Tento blok pravidel upravuje interakce mezi běžnými hráči (zejména kriminálníky) a státními aparáty (PD, EMS, FD, GOV). Cílem je udržet balanc a zamezit zbytečnému zdržování, trollingu nebo zneužívání mechanik.*
 
 *Interakce se státem a zákazy*
 
