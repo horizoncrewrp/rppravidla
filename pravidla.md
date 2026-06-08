@@ -21,8 +21,10 @@
 *Příkaz určený k textovému popisu činností, emocí a nálad postavy, které nelze vyjádřit standardními herními animacemi.*
 
 *Příklad:*
-
-![Status](https://img.shields.io/badge/Status-Aktivní-green) ***✔ Správně:***
+```diff
++ ***✔ Správně:***
+```
+***✔ Správně:***
 
 ***/me Pokouší se vykopnout staré dřevěné dveře od kůlny. (Systém vyhodnotí úspěch/neúspěch)***
 
