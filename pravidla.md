@@ -79,6 +79,7 @@
 *Je zakázáno přes textové příkazy nebo mechaniky provádět úkony, které by reálný člověk nedokázal splnit.*
 
 ***✘ Špatně:***
+
 🔴 */do bere auto oběma rukama a hází ho přes plot na zahradu.*
 
 *Manuální tlačení nepojízdného vozidla (např. přes Target menu / "očko") je povoleno pouze tehdy, pokud za volantem vozu sedí jiný hráč, který vozidlo ovládá a koriguje směr, a zároveň celá situace dává logický RP smysl (např. odtlačení překážky z křižovatky, nikoli tlačení vozu přes celé město).*
@@ -129,7 +130,8 @@
 
 *Střelná a bodná zranění může definitivně vyléčit pouze lékař (u nelegálního doktora je nutné schválení od Admin Teamu). Sami si smíte dát pouze dočasnou první pomoc (např. bandáž ).​*
 
-Pokud v nemocnici zrovna není žádný reálný doktor, musíte zranění od-RPit u NPC recepce a zapsat do systému pravdivý zdravotní záznam o tom, co se vaší postavě stalo.
+*Pokud v nemocnici zrovna není žádný reálný doktor, musíte zranění od-RPit u NPC recepce a zapsat do systému pravdivý zdravotní záznam o tom, co se vaší postavě stalo.*
+
 *Střelná a bodná zranění může definitivně vyléčit pouze lékař (u nelegálního doktora je nutné schválení od Admin Teamu). Sami si smíte dát pouze dočasnou první pomoc (např. bandáž na zastavení krvácení).​*
 
 *Pokud v nemocnici zrovna není žádný reálný doktor, musíte zranění od-RPit u NPC recepce a zapsat do systému pravdivý zdravotní záznam o tom, co se vaší postavě stalo.*
