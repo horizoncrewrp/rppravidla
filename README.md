@@ -346,10 +346,10 @@ Oblasti se zvýšenou kriminalitou, kde mohou být obyvatelé ozbrojeni. Složky
 
 <span class="modra">*Upozornění: Všechna státní vozidla mají aktivní palubní kamery, s čímž musíte v RP počítat.*</span>
 
-<span class="seda">*Cely předběžného zadržení (CPZ) a nelegální doktoři*</span>
+*Cely předběžného zadržení (CPZ) a nelegální doktoři*
 
-<span class="seda">*Maximální doba držení v cele předběžného zadržení je 2 hodiny. Policie je povinna využívat zákony efektivně tak, aby vás tam nedržela ani o minutu déle, než je nutné pro sepsání protokolu.*</span>
+*Maximální doba držení v cele předběžného zadržení je 2 hodiny. Policie je povinna využívat zákony efektivně tak, aby vás tam nedržela ani o minutu déle, než je nutné pro sepsání protokolu.*
 
-<span class="seda">*Chcete-li RPit nelegálního chirurga, který ošetřuje postřelené gangstry bez hlášení policii, potřebujete schválení od AT. V ticketu musíte navíc obhájit, jak vaše postava sehnala drahé lékařské vybavení a kde má utajenou ordinaci.*</span>
+*Chcete-li RPit nelegálního chirurga, který ošetřuje postřelené gangstry bez hlášení policii, potřebujete schválení od AT. V ticketu musíte navíc obhájit, jak vaše postava sehnala drahé lékařské vybavení a kde má utajenou ordinaci.*
 
 <span class="modra">***Důležitá poznámka:** Pro všechny hráče platí povinnost sledovat a dodržovat interní OOC sekce na oficiálních Discordech jednotlivých státních frakcí, kde jsou specifická pravidla dále rozvedena.*</span>
