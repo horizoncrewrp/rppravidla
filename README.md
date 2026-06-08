@@ -1,6 +1,7 @@
 <style>
-  body {
+  html, body {
     background-color: #121212 !important;
+    background: #121212 !important;
     color: #e0e0e0 !important;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
     max-width: 800px;
@@ -26,6 +27,10 @@
   }
   a {
     color: #8be9fd !important;
+  }
+  .markdown-body {
+    background-color: #121212 !important;
+    color: #e0e0e0 !important;
   }
 </style>
 
