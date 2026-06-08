@@ -1,5 +1,1 @@
-theme: jekyll-theme-midnight
-
-# Vložíme vlastní styly, které skryjí hlavičku a patičku
-include:
-  - _style.html
+theme: jekyll-theme-primer
