@@ -1,7 +1,3 @@
----
-theme: jekyll-theme-cayman
----
-
 ## Základní Pravidla
 
 ***RP - RolePlay***
