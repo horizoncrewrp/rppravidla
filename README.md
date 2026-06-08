@@ -28,7 +28,7 @@
 
 <span class="zelena">***/me Snaží se nahmatat klíče v hluboké kapse u kalhot. (Systém určí, zda postava klíče našla)***</span>
 
-***/DO***
+<span class="oranzova">***/DO***</span>
 
 *Příkaz slouží k detailnímu popisu prostředí a situací, nebo k vyjádření akcí, které vyžadují následnou reakci či odpověď od jiného hráče.*
 
@@ -40,7 +40,7 @@
 
 <span class="zelena">***/do V peněžence má pouze občanský průkaz a 5000 $, zbytek dokladů chybí (Širší popis situace/předmětu při prohledávání)***</span>
 
-***MIXING***
+<span class="oranzova">***MIXING***</span>
 
 *Tento bod upravuje přísný zákaz prolínání informací mezi herním světem (IC) a mimoherní realitou (OOC).​*
 
@@ -56,11 +56,11 @@
 
 <span class="zelena">***Hráč během zatýkání policií začne do herního hlasového chatu křičet: „Hele, ty mi nemůžeš dát vězení na hodinu, protože v pravidlech na Discordu je napsané maximum 30 minut a tvůj šéf frakce mi to schválil!“ (Zatažení OOC pravidel a Discordu do IC rozhovoru)***</span>
 
-***METAGAMING​***
+<span class="oranzova">***METAGAMING​***</span>
 
 *Tento bod definuje zneužití informací, které hráč získal mimo herní postavu, za účelem dosažení výhody nebo ovlivnění děje v herním světě.​*
 
-***POZNÁVÁNÍ HRÁČŮ**​*
+<span class="oranzova">***POZNÁVÁNÍ HRÁČŮ**​*</span>
 
 *Pravidlo omezuje identifikaci postav podle hlasu, oblečení či vzhledu na základě povrchních znaků.​*
 
@@ -72,7 +72,7 @@
 
 *Identifikace postav na ulici na základě fotek a příspěvků z herních sociálních sítí bez předchozí osobní interakce je zakázána.​*
 
-***POWERGAMING**​*
+<span class="oranzova">***POWERGAMING**​*</span>
 
 *Tento bod definuje situace, kdy jednání, činy nebo schopnosti vaší postavy přesahují reálné lidské možnosti, herní mechaniky nebo nerespektují fyzikální zákony.*
 
@@ -84,7 +84,7 @@
 
 *Manuální tlačení nepojízdného vozidla (např. přes Target menu / "očko") je povoleno pouze tehdy, pokud za volantem vozu sedí jiný hráč, který vozidlo ovládá a koriguje směr, a zároveň celá situace dává logický RP smysl (např. odtlačení překážky z křižovatky, nikoli tlačení vozu přes celé město).*
 
-***FEAR RP​***
+<span class="oranzova">***FEAR RP​***</span>
 
 *Tento bod definuje povinnost hráče simulovat přirozený strach o vlastní život, zdraví nebo o životy svých blízkých v ohrožujících situacích.​*
 
@@ -94,7 +94,7 @@
 
 *Projevit nekompromisní odvahu nebo jednat „nebojácně“ lze pouze v případě, že to přímo vychází z dlouhodobého loru a charakteru postavy (např. vysoce cvičený člen zásahové jednotky, kriminální psychopat, mentálně nemocný jedinec). Tato změna chování musí mít pádný a doložitelný IC důvod.*
 
-***WATER EVADING​***
+<span class="oranzova">***WATER EVADING​***</span>
 
 *Tento bod definuje zakázané praktiky při ujíždění nebo utíkání policejním a státním složkám za využití vodních ploch.​*
 
@@ -102,7 +102,7 @@
 
 *Tento zákaz se nevztahuje na vnitrozemské vodní plochy, uzavřené nádrže a řeky (např. Alamo Sea, potoky, jezera či městské kanály), kde je únik po vodě v rámci RP situace povolen.*
 
-***NON-RP DRIVING***
+<span class="oranzova">***NON-RP DRIVING***</span>
 
 *Tento bod definuje pravidla pro ovládání vozidel.*
 
@@ -112,7 +112,7 @@
 
 *U drobných „ťuknutí“ v nízké rychlosti není nutné okamžitě zastavovat a přerušovat jízdu či pronásledování.*
 
-***PRAVIDLO INVENTÁŘE​***
+<span class="oranzova">***PRAVIDLO INVENTÁŘE​***</span>
 
 *Co máš v inventáři, máš u sebe: Všechny položky a peníze v menu má postava reálně u sebe. Výjimkou je policejní „Sáček s důkazy“.*
 
@@ -122,7 +122,7 @@
 
 *U sebe noste jen reálné množství peněz, které se dá fyzicky unést.*
 
-**INJURIES**
+<span class="oranzova">**INJURIES**</span>
 
 *Pravidlo nařizuje povinnost realisticky reagovat na fyzické poškození postavy.​ Zranění musíte vždy od-RPit úměrně tomu, jak vzniklo (např. kulhání po pádu). RPit zranění jste povinni i v situaci, kdy kolem vás nikdo jiný není.*
 
@@ -136,7 +136,7 @@
 
 *Pokud v nemocnici zrovna není žádný reálný doktor, musíte zranění od-RPit u NPC recepce a zapsat do systému pravdivý zdravotní záznam o tom, co se vaší postavě stalo.*
 
-***VK - VEHICLE KILL***
+<span class="oranzova">***VK - VEHICLE KILL***</span>
 
 *Pravidlo definuje trvalé a neopravitelné zničení vozidla v herním světě.​*
 
@@ -146,7 +146,7 @@
 
 *Pokud na autě řádně od-RPíte zbroušení VIN kódu a toto vozidlo následně zabaví policie (PD), je mu automaticky uděleno VK (vůz je trvale odstraněn ze hry).*
 
-***VDM - VEHICLE DEATHMATCH***
+<span class="oranzova">***VDM - VEHICLE DEATHMATCH***</span>
 
 *Pravidlo zakazuje používat jakékoli vozidlo jako přímou zbraň.​*
 
@@ -156,7 +156,7 @@
 
 *Je zakázáno střílet z jakýchkoli vzdušných dopravních prostředků, včetně letadel, vrtulníků a balónů.*
 
-***DRŽENÍ OSOB***
+<span class="oranzova">***DRŽENÍ OSOB***</span>
 
 *Pravidlo upravuje limity a podmínky pro omezování svobody ze strany hráčů i policie (PD).*
 
@@ -172,7 +172,7 @@
 
 *Útěk z výkonu trestu je zakázán. Výjimkou je pouze předem schválená akce od AT.*
 
-***KRÁDEŽE***
+<span class="oranzova">***KRÁDEŽE***</span>
 
 *Nečíhejte u teleportů do domů a bytů, abyste někoho vykradli. Pokud ale majitel nechá dveře odemčené, můžete jeho interiér vybrat (neplatí pro skriptované vykrádačky).*
 
@@ -184,7 +184,7 @@
 
 *Nesmíte nikoho nutit k přepisu majetku (domy, auta) ani k výběru/převodu peněz z banky. Vzít mu můžete jen to, co má u sebe v inventáři.*
 
-***KOS - KILL ON SIGHT***
+<span class="oranzova">***KOS - KILL ON SIGHT***</span>
 
 *Pravidlo zakazuje likvidaci ostatních hráčů bez předchozího slovního nebo herního varování a bez jasného logického důvodu.*
 
@@ -192,7 +192,7 @@
 
 *Při běžné silniční kontrole (traffic stopu) je zakázáno okamžitě střílet nebo zabíjet příslušníky státních složek (PD), pokud situaci nepředcházela dostatečně dlouhá interakce a neexistuje k tomu zásadní RP důvod (např. snaha vyhnout se okamžitému doživotnímu vězení).*
 
-***PASSIVE RP***
+<span class="oranzova">***PASSIVE RP***</span>
 
 *Pravidlo definuje chování v herním světě s ohledem na fiktivní obyvatelstvo, kamery a bezpečnostní systémy, které existují nezávisle na přítomnosti reálných hráčů.*
 
@@ -244,7 +244,7 @@ Oblasti se zvýšenou kriminalitou, kde mohou být obyvatelé ozbrojeni. Složky
 
 *V případě schválení se místo bere jako neosídlené, bez kamer a ochranky (stále se však v okolí mohou vyskytovat náhodní kolemjdoucí).*
 
-***VOLBA A CHARAKTER POSTAV***
+<span class="oranzova">***VOLBA A CHARAKTER POSTAV***</span>
 
 *Pravidla pro zakládání, vývoj a chování herních postav v San Andreas.*
 
@@ -272,7 +272,7 @@ Oblasti se zvýšenou kriminalitou, kde mohou být obyvatelé ozbrojeni. Složky
 
 *Transgender charaktery a roleplay opačného pohlaví (např. pokud muž chce hrát ženskou postavu).*
 
-***CK - DEFINITIVNÍ SMRT POSTAVY***
+<span class="oranzova">***CK - DEFINITIVNÍ SMRT POSTAVY***</span>
 
 *Character Kill znamená, že příběh vaší postavy v Los Santos definitivně končí. Je to vážný krok a má svá přísná pravidla.*
 
@@ -320,7 +320,7 @@ Oblasti se zvýšenou kriminalitou, kde mohou být obyvatelé ozbrojeni. Složky
 
 *Jakmile nasbíráte v rejstříku tresty v celkové hodnotě 75 let vězení, dostáváte automaticky doživotní stopku (Jail CK). Akci předem posvěcuje Admin Tým.*
 
-***STÁTNÍ SLOŽKY A INSTITUCE***
+<span class="oranzova">***STÁTNÍ SLOŽKY A INSTITUCE***</span>
 
 *Interakce se státem a zákazy*
 
@@ -344,12 +344,12 @@ Oblasti se zvýšenou kriminalitou, kde mohou být obyvatelé ozbrojeni. Složky
 
 *Je zakázáno si tato auta nechávat, schovávat je nebo s nimi dlouhodobě jezdit. Výjimku tvoří pouze komplexní RP plány předem schválené přes ticket u AT.*
 
-*Upozornění: Všechna státní vozidla mají aktivní palubní kamery, s čímž musíte v RP počítat.*
+<span class="modra">*Upozornění: Všechna státní vozidla mají aktivní palubní kamery, s čímž musíte v RP počítat.*</span>
 
-*Cely předběžného zadržení (CPZ) a nelegální doktoři*
+<span class="seda">*Cely předběžného zadržení (CPZ) a nelegální doktoři*</span>
 
-*Maximální doba držení v cele předběžného zadržení je 2 hodiny. Policie je povinna využívat zákony efektivně tak, aby vás tam nedržela ani o minutu déle, než je nutné pro sepsání protokolu.*
+<span class="seda">*Maximální doba držení v cele předběžného zadržení je 2 hodiny. Policie je povinna využívat zákony efektivně tak, aby vás tam nedržela ani o minutu déle, než je nutné pro sepsání protokolu.*</span>
 
- *Chcete-li RPit nelegálního chirurga, který ošetřuje postřelené gangstry bez hlášení policii, potřebujete schválení od AT. V ticketu musíte navíc obhájit, jak vaše postava sehnala drahé lékařské vybavení a kde má utajenou ordinaci.*
+<span class="seda">*Chcete-li RPit nelegálního chirurga, který ošetřuje postřelené gangstry bez hlášení policii, potřebujete schválení od AT. V ticketu musíte navíc obhájit, jak vaše postava sehnala drahé lékařské vybavení a kde má utajenou ordinaci.*</span>
 
 <span class="modra">***Důležitá poznámka:** Pro všechny hráče platí povinnost sledovat a dodržovat interní OOC sekce na oficiálních Discordech jednotlivých státních frakcí, kde jsou specifická pravidla dále rozvedena.*</span>
