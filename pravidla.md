@@ -22,11 +22,11 @@
 
 *Příklad:*
 
-`***✔ Správně:***`
+![Status](https://img.shields.io/badge/Status-Aktivní-green) ***✔ Správně:***
 
-SPRAVNE: ***/me Pokouší se vykopnout staré dřevěné dveře od kůlny. (Systém vyhodnotí úspěch/neúspěch)***
+***/me Pokouší se vykopnout staré dřevěné dveře od kůlny. (Systém vyhodnotí úspěch/neúspěch)***
 
-SPRAVNE: ***/me Snaží se nahmatat klíče v hluboké kapse u kalhot. (Systém určí, zda postava klíče našla)***
+***/me Snaží se nahmatat klíče v hluboké kapse u kalhot. (Systém určí, zda postava klíče našla)***
 
 ***/DO***
 
